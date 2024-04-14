@@ -58,7 +58,6 @@ if pin == Pin:
 
         elif doro2 == 2:
             print(f"Ku iibso \n Fadlan Gali Aqoonsiga Ganacsigaaga")
-
     elif ch == 4:
         Mobil = int(input("Fadlan Gali Mobilka "))
         Lacag = int(input("Fadlan Gali Lacagta "))
